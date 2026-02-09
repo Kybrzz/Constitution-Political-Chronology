@@ -1,12 +1,25 @@
 # Political_Chronology
 
 -------------------------------------------------------------------
-A chronological record of my political and philosophical writings. 
-Debate, citation, and critique are encouraged.
-This project has two overarching cateogries of work:
+An archive of my political and philosophical writings. 
+Bifurcated into personal Constitution and Political Query.
+Debate, citation, and critique are encouraged; actively seeking discourse.
 --------------------------------------------------------------------
 
-## I. Responses to Political Questions
+## I. Personal Constitution 
+
+----------------------------------------------------------------------
+A personal journal outlining my firm yet ever-corrigible principles.
+This is intended to evolve into a unified philosophical work.
+
+Each entry includes:
+- Date of creation and online entry
+- Exists as an original handwritten PDF with a corresponding transcription
+- Suggested citation
+- A discussion thread for public debate and critique
+------------------------------------------------------------------------
+
+### II. Responses to Political Questions
 
 ---------------------------------------------------------------------
 An archive of my responses to political questions. 
@@ -19,22 +32,6 @@ Each entry includes:
 - Suggested citation
 - A discussion thread for public debate and critique
 ----------------------------------------------------------------------
-
-### II. Personal Constitution 
-
-----------------------------------------------------------------------
-A personal journal outlining my values, structured as dated entries. 
-Entries are logged chronologically. 
-Eventually, theme categorization will be implemented so ideas can be 
-reorganized into a coherent theme structure.
-This is intended to evolve into a unified philosophical work.
-
-Each entry includes:
-- Date of creation and online entry
-- Exists as an original handwritten PDF with a corresponding transcription
-- Suggested citation
-- A discussion thread for public debate and critique
-------------------------------------------------------------------------
 
 ### III. Additional Information 
 
