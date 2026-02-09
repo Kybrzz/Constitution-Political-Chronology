@@ -1,44 +1,48 @@
 **Constitution + Political Query Chronology**
 
+A public, version-controlled archive of my philosophical and political writings.
+This project is explicitly bifurcated into a Personal Constitution and a Political Query Chronology, with the former governing the latter.
+Academic debate, citation, and critique are welcomed.
+Revisions, when implemented, are preserved alongside prior versions and dated
+to maintain traceability and accountability. 
+
 -------------------------------------------------------------------
-An archive of my political and philosophical writings. 
-Bifurcated into personal Constitution and Political Query.
-Debate, citation, and critique are encouraged; actively seeking discourse.
---------------------------------------------------------------------
 
 # I. Personal Constitution 
 
-----------------------------------------------------------------------
-A personal journal outlining my firm yet ever-corrigible principles.
+Framework detailing my positions on varied topics. 
+Unwavering in commitment and instantiation yet corrigible given sufficient adverserial critique.
 This is intended to evolve into a unified philosophical work.
 
 Each entry includes:
 - Date of creation and online entry
-- Exists as an original handwritten PDF with a corresponding transcription
-- Suggested citation
-- A discussion thread for public debate and critique
+- The original handwritten PDF with a corresponding transcription
+- Suggested citation format
+- A public discussion thread for conflictual refinement
+
 ------------------------------------------------------------------------
 
-## II. Responses to Political Questions
+## II. Political Query Chronology
 
----------------------------------------------------------------------
-An archive of my responses to political questions. 
-Entries are retained permanently. 
-Revisions, when implemented, are logged explicitly with dates. 
+An archive of my responses to political questions, written given the constraints listed
+by the Personal Constitution. 
+Entries are retained in perpetuity. 
 
 Each entry includes:
 - Date of creation and online entry 
-- Exists as an original handwritten PDF with a corresponding transcription
-- Suggested citation
-- A discussion thread for public debate and critique
+- The original handwritten PDF with a corresponding transcription
+- Suggested citation format
+- A public discussion thread for conflictual refinement 
+
 ----------------------------------------------------------------------
 
-### III. Additional Information 
+### III. Use and Attribution 
 
-------------------------------------------------------------------------
-Quoting for non-commercial, educational, or commentary purposes is permitted with attribution,
-as well as a link to the original entry. 
+Quoting for non-commercial, educational, or commentary purposes is permitted with proper
+attribution and a link to the original entry.
 Modified versions may not be presented as my original words.
-Nothing published here constitutes legal, financial, or professional advice. 
-All views are my own.
--------------------------------------------------------------------------
+No text published within constitutes legal, financial, or professional advice.
+All views, both philosophical and political, represent my current best judgement, faced
+with uncertainty, and remain corrigible.
+
+----------------------------------------------------------------------
