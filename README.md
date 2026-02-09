@@ -11,7 +11,7 @@ to maintain traceability and accountability.
 # I. Personal Constitution 
 
 Framework detailing my positions on varied topics. 
-Unwavering in commitment and instantiation yet corrigible given sufficient adverserial critique.
+Unwavering in commitment and instantiation yet corrigible given sufficient adversarial critique.
 This is intended to evolve into a unified philosophical work.
 
 Each entry includes:
