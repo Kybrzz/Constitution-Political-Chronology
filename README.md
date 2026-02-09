@@ -1,4 +1,4 @@
-# Political_Chronology
+**Constitution + Political Query Chronology**
 
 -------------------------------------------------------------------
 An archive of my political and philosophical writings. 
@@ -6,7 +6,7 @@ Bifurcated into personal Constitution and Political Query.
 Debate, citation, and critique are encouraged; actively seeking discourse.
 --------------------------------------------------------------------
 
-## I. Personal Constitution 
+# I. Personal Constitution 
 
 ----------------------------------------------------------------------
 A personal journal outlining my firm yet ever-corrigible principles.
@@ -19,7 +19,7 @@ Each entry includes:
 - A discussion thread for public debate and critique
 ------------------------------------------------------------------------
 
-### II. Responses to Political Questions
+## II. Responses to Political Questions
 
 ---------------------------------------------------------------------
 An archive of my responses to political questions. 
